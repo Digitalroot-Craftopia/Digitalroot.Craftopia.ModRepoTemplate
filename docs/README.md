@@ -15,9 +15,9 @@ https://github.com/ebkr/r2modmanPlus/wiki/Installing-mods-locally#manifest-v1-th
 New Items:
 - Stone Arrow
 - Blunted Arrow
-
+https://steamcommunity.com/sharedfiles/filedetails/?id=2830278057
 ### Dependencies
-- <a href="https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/"  target="_blank">BepInExPack Valheim</a>
+- <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2830278057"  target="_blank">Craftopia Mod Loader (BepInEx)</a>
 
 ### Installation (manual)
 1. Download the latest release archive (zip) file.
