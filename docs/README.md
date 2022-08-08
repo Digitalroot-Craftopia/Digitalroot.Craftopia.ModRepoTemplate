@@ -6,16 +6,11 @@ https://github.com/ebkr/r2modmanPlus/wiki/Installing-mods-locally#manifest-v1-th
 
 # Summary
 
-
 ## License
 **GNU Affero General Public License v3.0**
 
-## ModTemplate
+## Mod Details
 
-New Items:
-- Stone Arrow
-- Blunted Arrow
-https://steamcommunity.com/sharedfiles/filedetails/?id=2830278057
 ### Dependencies
 - <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2830278057"  target="_blank">Craftopia Mod Loader (BepInEx)</a>
 
